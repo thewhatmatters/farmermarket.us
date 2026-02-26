@@ -102,7 +102,7 @@
 				</div>
 
 				<p class="text-sm leading-normal font-light text-slate-600 dark:text-slate-300">
-					🇺🇸 Made in Maryland, USA &amp; <br />⚡ Powered by
+					🇺🇸 Made in Austin, TX, USA &amp; <br />⚡ Powered by
 					<a
 						href="https://axcai.gumroad.com/l/axc-0002"
 						target="_blank"
