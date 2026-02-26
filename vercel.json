@@ -1,20 +1,5 @@
 {
-	"redirects": [
-		{
-			"source": "/directory/arizona/amadio-ranch",
-			"destination": "/arizona/amadio-ranch",
-			"permanent": true
-		},
-		{
-			"source": "/directory/:state/:slug",
-			"destination": "/:state/:slug",
-			"permanent": true
-		}
-	],
-	"rewrites": [
-		{
-			"source": "/(.*)",
-			"destination": "/index.html"
-		}
-	]
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "framework": "sveltekit"
 }
