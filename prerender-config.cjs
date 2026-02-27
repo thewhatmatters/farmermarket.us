@@ -26,5 +26,6 @@ const entries = [
 
 // Add blog post routes
 entries.push('/blog/your-local-food-adventure-starts-here');
+entries.push('/blog/farmers-cheese-2026-trend');
 
 module.exports = { entries };
