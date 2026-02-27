@@ -264,7 +264,7 @@
 		"id": "10",
 		"title": "Old Town Scottsdale Farmers Market",
 		"description": "Seasonal market in Old Town Scottsdale featuring over 100 local growers and specialty food producers.",
-		"longDescription": "<p>The Old Town Scottsdale Farmers Market, established in 2009, features more than 100 local growers and specialty food producers. Find organic and pesticide-free produce, seasonal specialties, flowers, meats, eggs, cheese, artisan breads, jams, and more. Family friendly and well-mannered pets welcome. SNAP, DUFB, WIC, and Senior Nutrition programs accepted. Open Saturdays, October–April 8am–1pm, May 8am–12pm, Summer 7–10am.</p>",
+		"longDescription": "<p>The Old Town Scottsdale Farmers Market, established in 2009, features more than 100 local growers and specialty food producers. Find organic and pesticide-free produce, seasonal specialties, flowers, meats, eggs, cheese, artisan breads, jams, and more. Family friendly and well-mannered pets welcome. SNAP, DUFB, WIC, and Senior Nutrition programs accepted. Open Saturdays, October\u2013April 8am\u20131pm, May 8am\u201312pm, Summer 7\u201310am.</p>",
 		"image": "/images/resources/arizona/old-town-scottsdale-farmers-market.avif",
 		"phone": "",
 		"hours": {
@@ -293,7 +293,7 @@
 		"id": "11",
 		"title": "Uptown Farmers Market",
 		"description": "Year-round Saturday market in Phoenix with local produce, food, and artisan goods.",
-		"longDescription": "<p>Uptown Farmers Market is a vibrant, year-round market in Phoenix, Arizona, featuring local produce, food, and artisan goods. Open Saturdays 7am–11am (summer), with additional Wednesday hours in winter. Located at North Phoenix Baptist Church, 5757 N Central Ave.</p>",
+		"longDescription": "<p>Uptown Farmers Market is a vibrant, year-round market in Phoenix, Arizona, featuring local produce, food, and artisan goods. Open Saturdays 7am\u201311am (summer), with additional Wednesday hours in winter. Located at North Phoenix Baptist Church, 5757 N Central Ave.</p>",
 		"image": "/images/resources/arizona/uptown-farmers-market.avif",
 		"phone": "+1 602-859-5648",
 		"hours": {
@@ -322,7 +322,7 @@
 		"id": "12",
 		"title": "Gilbert Farmers Market",
 		"description": "Downtown Gilbert market with over 100 vendors, featuring local produce, eggs, meat, cheese, bread, and artisan products.",
-		"longDescription": "<p>Gilbert Farmers Market is located in Downtown Gilbert, just west of the iconic Water Tower. Open every Saturday, the market features over 100 vendors year-round, offering local, chemical-free, organic produce, farm-fresh eggs, meat, cheese, bread, sweets, coffee, sauces, and artisan products. Summer hours: 7am–11am; Winter hours: 8am–12pm.</p>",
+		"longDescription": "<p>Gilbert Farmers Market is located in Downtown Gilbert, just west of the iconic Water Tower. Open every Saturday, the market features over 100 vendors year-round, offering local, chemical-free, organic produce, farm-fresh eggs, meat, cheese, bread, sweets, coffee, sauces, and artisan products. Summer hours: 7am\u201311am; Winter hours: 8am\u201312pm.</p>",
 		"image": "/images/resources/arizona/gilbert-farmers-market.avif",
 		"phone": "",
 		"hours": {
@@ -351,7 +351,7 @@
 		"id": "13",
 		"title": "Superstition Ranch Farmers Market",
 		"description": "Family-owned market in Mesa, AZ, offering fresh produce, local honey, bakery, deli, and grocery items.",
-		"longDescription": "<p>Superstition Ranch Farmers Market is a family-owned market serving the Mesa area for over 50 years. Known for great quality produce at low prices, the market also offers local honey, bakery, deli, and grocery items. Open Monday–Saturday 7:30am–7pm, Sunday 8am–5:30pm.</p>",
+		"longDescription": "<p>Superstition Ranch Farmers Market is a family-owned market serving the Mesa area for over 50 years. Known for great quality produce at low prices, the market also offers local honey, bakery, deli, and grocery items. Open Monday\u2013Saturday 7:30am\u20137pm, Sunday 8am\u20135:30pm.</p>",
 		"image": "/images/resources/arizona/superstition-ranch.avif",
 		"phone": "+1 480-832-3421",
 		"hours": {
@@ -380,7 +380,7 @@
 		"id": "14",
 		"title": "Downtown Phoenix Farmers Market",
 		"description": "Downtown Phoenix market offering local produce, food, and artisan goods. Accepts EBT, WIC, and Double Up Food Bucks.",
-		"longDescription": "<p>The Downtown Phoenix Farmers Market is a community-focused market offering local produce, food, and artisan goods. Open Saturdays, main season (Oct–May) 8am–1pm, summer season (May–Oct) 7:30am–11:30am. Accepts cash, credit, EBT, WIC, and Double Up Food Bucks.</p>",
+		"longDescription": "<p>The Downtown Phoenix Farmers Market is a community-focused market offering local produce, food, and artisan goods. Open Saturdays, main season (Oct\u2013May) 8am\u20131pm, summer season (May\u2013Oct) 7:30am\u201311:30am. Accepts cash, credit, EBT, WIC, and Double Up Food Bucks.</p>",
 		"image": "/images/resources/arizona/downtown-phoenix-farmers-market.avif",
 		"phone": "+1 602-625-6736",
 		"hours": {
@@ -409,7 +409,7 @@
 		"id": "15",
 		"title": "Roadrunner Farmers Market",
 		"description": "Seasonal Phoenix market with local growers, specialty foods, and artisan vendors. SNAP, WIC, and Senior Nutrition accepted.",
-		"longDescription": "<p>Roadrunner Farmers Market in Phoenix features local growers, specialty foods, and artisan vendors. SNAP, WIC, and Senior Nutrition programs accepted. Open Saturdays, October–April 8am–1pm, May 8am–12pm, Summer 7–10am.</p>",
+		"longDescription": "<p>Roadrunner Farmers Market in Phoenix features local growers, specialty foods, and artisan vendors. SNAP, WIC, and Senior Nutrition programs accepted. Open Saturdays, October\u2013April 8am\u20131pm, May 8am\u201312pm, Summer 7\u201310am.</p>",
 		"image": "/images/resources/arizona/roadrunner-farmers-market.avif",
 		"phone": "",
 		"hours": {
@@ -496,7 +496,7 @@
 		"id": "18",
 		"title": "Ahwatukee Farmers Market",
 		"description": "Community market in Phoenix, AZ, featuring local produce, food, and artisan vendors. SNAP, WIC, and Senior Nutrition accepted.",
-		"longDescription": "<p>Ahwatukee Farmers Market is a community market in Phoenix, Arizona, offering local produce, food, and artisan vendors. SNAP, WIC, and Senior Nutrition programs accepted. Open Sundays, October–April 9am–1pm, May 8am–11am, closed summer.</p>",
+		"longDescription": "<p>Ahwatukee Farmers Market is a community market in Phoenix, Arizona, offering local produce, food, and artisan vendors. SNAP, WIC, and Senior Nutrition programs accepted. Open Sundays, October\u2013April 9am\u20131pm, May 8am\u201311am, closed summer.</p>",
 		"image": "/images/resources/arizona/ahwatukee-farmers-market.avif",
 		"phone": "",
 		"hours": {
@@ -612,7 +612,7 @@
 		"id": "22",
 		"title": "Downtown Chandler Farmers Market",
 		"description": "Seasonal market in downtown Chandler, AZ, featuring local produce, food, and artisan vendors.",
-		"longDescription": "<p>The Downtown Chandler Farmers Market is a seasonal market featuring local produce, food, and artisan vendors. Open Saturdays, October–May, 9am–1pm.</p>",
+		"longDescription": "<p>The Downtown Chandler Farmers Market is a seasonal market featuring local produce, food, and artisan vendors. Open Saturdays, October\u2013May, 9am\u20131pm.</p>",
 		"image": "/images/resources/arizona/downtown-chandler-farmers-market.avif",
 		"phone": "",
 		"hours": {
@@ -931,7 +931,7 @@
 		"id": "33",
 		"title": "Marin Farmers' Market",
 		"description": "One of California's largest farmers' markets featuring local farmers, ranchers, and artisans in a scenic Frank Lloyd Wright setting.",
-		"longDescription": "<p>The Marin Farmers' Market at the Marin Civic Center includes two weekly markets. The Sunday market, with over 150 year-round vendors, is the third largest weekly market in California, offering organic produce, grass-fed meats, hand-crafted baked goods, and local artisans. The Thursday market, known as the \"Chef's Market,\" is frequented by local restaurateurs and food producers looking to source their ingredients. Both markets are nestled in the hills of the Marin County Civic Center—Frank Lloyd Wright's largest and final public project.</p>",
+		"longDescription": "<p>The Marin Farmers' Market at the Marin Civic Center includes two weekly markets. The Sunday market, with over 150 year-round vendors, is the third largest weekly market in California, offering organic produce, grass-fed meats, hand-crafted baked goods, and local artisans. The Thursday market, known as the \"Chef's Market,\" is frequented by local restaurateurs and food producers looking to source their ingredients. Both markets are nestled in the hills of the Marin County Civic Center\u2014Frank Lloyd Wright's largest and final public project.</p>",
 		"image": "/images/resources/california/marin-farmers-market.avif",
 		"phone": "+1 415-472-6100",
 		"hours": {
@@ -989,7 +989,7 @@
 		"id": "35",
 		"title": "San Luis Obispo Farmers' Market",
 		"description": "Vibrant Thursday evening market with over 100 vendors, famous BBQ, live entertainment, and fresh local produce.",
-		"longDescription": "<p>The Downtown SLO Farmers' Market is San Luis Obispo's signature event, taking place every Thursday from 6-9 PM on Higuera Street. This five-block market features over 100 vendors offering fresh produce, famous BBQ, delicious meals, crafts, baked goods, and entertainment. The event is anchored by a collection of massive circular barbecue setups, and the aroma of sizzling pork shoulder, ribs, chicken, lamb, and tri-tip—as well as batches of artichokes and corn on the cob—will wake up any appetite. It's a popular destination for both locals and visitors.</p>",
+		"longDescription": "<p>The Downtown SLO Farmers' Market is San Luis Obispo's signature event, taking place every Thursday from 6-9 PM on Higuera Street. This five-block market features over 100 vendors offering fresh produce, famous BBQ, delicious meals, crafts, baked goods, and entertainment. The event is anchored by a collection of massive circular barbecue setups, and the aroma of sizzling pork shoulder, ribs, chicken, lamb, and tri-tip\u2014as well as batches of artichokes and corn on the cob\u2014will wake up any appetite. It's a popular destination for both locals and visitors.</p>",
 		"image": "/images/resources/california/san-luis-obispo-farmers-market.avif",
 		"phone": "+1 805-541-0286",
 		"hours": {
@@ -3048,7 +3048,7 @@
 		"id": "106",
 		"title": "Carmel Farmers Market",
 		"description": "Indiana's #1 farmers market celebrating 27 years with over 80 vendors offering the finest grown and produced products from Indiana.",
-		"longDescription": "<p>Welcome to the Carmel Farmers Market, proudly celebrating its 27th year as Indiana's #1 farmers market. Located at Carter Green, this exceptional market features over 80 of Indiana's best vendors offering the freshest and finest grown and produced products from across the state. Operating every Saturday from May through September (8:00 AM to 11:30 AM), the market prioritizes food safety with every vendor carefully researched and evaluated before joining. Presented by IU Health North Hospital, the market is more than just shopping—it's a family and community gathering event featuring weekly musical talent, breakfast options, and a welcoming atmosphere where visitors can 'Get Fresh on Saturday!'</p>",
+		"longDescription": "<p>Welcome to the Carmel Farmers Market, proudly celebrating its 27th year as Indiana's #1 farmers market. Located at Carter Green, this exceptional market features over 80 of Indiana's best vendors offering the freshest and finest grown and produced products from across the state. Operating every Saturday from May through September (8:00 AM to 11:30 AM), the market prioritizes food safety with every vendor carefully researched and evaluated before joining. Presented by IU Health North Hospital, the market is more than just shopping\u2014it's a family and community gathering event featuring weekly musical talent, breakfast options, and a welcoming atmosphere where visitors can 'Get Fresh on Saturday!'</p>",
 		"image": "/images/resources/indiana/carmel-farmers-market.avif",
 		"phone": "+1 317-571-2441",
 		"hours": {
@@ -3106,7 +3106,7 @@
 		"id": "108",
 		"title": "Zionsville Farmers Market",
 		"description": "Historic main street farmers market established in 1997, celebrating over 25 years of bringing fresh local produce to the community.",
-		"longDescription": "<p>The Zionsville Farmers Market was established in 1997 by volunteers who saw an opportunity to bring fresh, local produce to the Zionsville community. Since then, it has grown into a staple of Zionsville summers, operating every Saturday from 8:00 AM to 11:30 AM (May 17 through September 27). Located at the corner of Main Street and Pine on historic main street, this market provides more than just groceries—it's a community gathering spot where people come together, share stories, and enjoy local music while shopping for fresh and healthy food. The market features a diverse group of vendors offering produce, baked goods, and freshly prepared food, and operates rain or shine with live entertainment throughout the season.</p>",
+		"longDescription": "<p>The Zionsville Farmers Market was established in 1997 by volunteers who saw an opportunity to bring fresh, local produce to the Zionsville community. Since then, it has grown into a staple of Zionsville summers, operating every Saturday from 8:00 AM to 11:30 AM (May 17 through September 27). Located at the corner of Main Street and Pine on historic main street, this market provides more than just groceries\u2014it's a community gathering spot where people come together, share stories, and enjoy local music while shopping for fresh and healthy food. The market features a diverse group of vendors offering produce, baked goods, and freshly prepared food, and operates rain or shine with live entertainment throughout the season.</p>",
 		"image": "/images/resources/indiana/zionsville-farmers-market.avif",
 		"phone": "+1 317-445-4417",
 		"hours": {
@@ -4614,7 +4614,7 @@
 		"id": "160",
 		"title": "Old Ellicott City Farmers Market",
 		"description": "This vibrant community market features local farms offering fresh produce, pastured meats, artisanal foods, fresh flowers, baked goods, coffee, and handcrafted products from vendors across Maryland.",
-		"longDescription": "<p>The Old Ellicott City Farmers Market is a thriving seasonal marketplace that brings together the best of Maryland's local agriculture and artisanal food scene. Located in the newly expanded Tiber Park at 8061 Main Street in historic Ellicott City, the market operates every Saturday from 9:00 AM to 1:00 PM, running from May 24 through October 25.</p><p>This carefully curated market showcases diverse vendors committed to quality and sustainability. Farm vendors include Singh Sugar Maple Farm with their fresh produce and pick-your-own options, Fairy Greens specializing in micro-greens and lavender products, and North Acres Farm offering pastured meats raised through regenerative farming practices. Enchanted Flower Farm provides chemical-free seasonal cut flowers, while Davis Highlands Orchard brings tree fruits, honey, eggs, and gourmet mushrooms from their 18-acre operation.</p><p>The market also features exceptional prepared foods and specialty items, including French-inspired cuisine from La Table du Château, artisanal breads from Great Harvest Bread Co., ethically sourced coffee from Dear Globe Coffee, creative pies from the Baltimore favorite Dangerously Delicious Pies, and authentic French crepes from Crepe Shoppe Café.</p><p>Supported by a $20,000 Enhanced Agricultural Grant from Howard County and community sponsors, the Old Ellicott City Farmers Market serves as a vital hub connecting local producers with the community, promoting sustainable agriculture, supporting small businesses, and fostering neighborhood connections in a welcoming, family-friendly environment.</p>",
+		"longDescription": "<p>The Old Ellicott City Farmers Market is a thriving seasonal marketplace that brings together the best of Maryland's local agriculture and artisanal food scene. Located in the newly expanded Tiber Park at 8061 Main Street in historic Ellicott City, the market operates every Saturday from 9:00 AM to 1:00 PM, running from May 24 through October 25.</p><p>This carefully curated market showcases diverse vendors committed to quality and sustainability. Farm vendors include Singh Sugar Maple Farm with their fresh produce and pick-your-own options, Fairy Greens specializing in micro-greens and lavender products, and North Acres Farm offering pastured meats raised through regenerative farming practices. Enchanted Flower Farm provides chemical-free seasonal cut flowers, while Davis Highlands Orchard brings tree fruits, honey, eggs, and gourmet mushrooms from their 18-acre operation.</p><p>The market also features exceptional prepared foods and specialty items, including French-inspired cuisine from La Table du Ch\u00e2teau, artisanal breads from Great Harvest Bread Co., ethically sourced coffee from Dear Globe Coffee, creative pies from the Baltimore favorite Dangerously Delicious Pies, and authentic French crepes from Crepe Shoppe Caf\u00e9.</p><p>Supported by a $20,000 Enhanced Agricultural Grant from Howard County and community sponsors, the Old Ellicott City Farmers Market serves as a vital hub connecting local producers with the community, promoting sustainable agriculture, supporting small businesses, and fostering neighborhood connections in a welcoming, family-friendly environment.</p>",
 		"image": "/images/resources/maryland/oec-farmers-market.avif",
 		"phone": "",
 		"hours": {
@@ -5049,7 +5049,7 @@
 		"id": "175",
 		"title": "Flint Farmers Market",
 		"description": "Year-round market with 50 diverse vendors featuring produce, meat market, bakery, wine shop, art gallery, and international groceries.",
-		"longDescription": "<p>The Flint Farmers Market is a comprehensive year-round market featuring 50 diverse vendors that make it a one-stop destination for fresh and delicious fare. Located in Flint, Michigan, this market operates on Tuesdays, Thursdays, and Saturdays, offering an impressive variety of vendors including several produce distributors, a great meat market, poultry, breads and baked goods, cheese, a wine shop, an art gallery, a café, Middle Eastern and Mexican groceries, and many unique gifts. The market's diverse vendor mix reflects Flint's multicultural community while providing access to fresh, local, and international foods year-round. Whether you're looking for fresh produce, specialty meats, artisan breads, or unique gifts, the Flint Farmers Market serves as a vital community resource that brings together local farmers, food producers, and artisans under one roof, making it an essential destination for residents seeking quality food and community connection.</p>",
+		"longDescription": "<p>The Flint Farmers Market is a comprehensive year-round market featuring 50 diverse vendors that make it a one-stop destination for fresh and delicious fare. Located in Flint, Michigan, this market operates on Tuesdays, Thursdays, and Saturdays, offering an impressive variety of vendors including several produce distributors, a great meat market, poultry, breads and baked goods, cheese, a wine shop, an art gallery, a caf\u00e9, Middle Eastern and Mexican groceries, and many unique gifts. The market's diverse vendor mix reflects Flint's multicultural community while providing access to fresh, local, and international foods year-round. Whether you're looking for fresh produce, specialty meats, artisan breads, or unique gifts, the Flint Farmers Market serves as a vital community resource that brings together local farmers, food producers, and artisans under one roof, making it an essential destination for residents seeking quality food and community connection.</p>",
 		"image": "/images/resources/michigan/flint-farmers-market.avif",
 		"phone": "+1 810-232-1399",
 		"hours": {
@@ -5165,7 +5165,7 @@
 		"id": "179",
 		"title": "Minneapolis Farmers Market on Lyndale",
 		"description": "Minnesota's largest farmer-managed farmers market since 1876, featuring over 100 vendors under iconic red sheds with diverse international offerings.",
-		"longDescription": "<p>The Minneapolis Farmers Market on Lyndale is the largest farmer-managed farmers market in Minnesota, with a rich history dating back to 1876 when it first opened in downtown Minneapolis before relocating to its current location at Lyndale and Glenwood Avenue North in 1937. Operating Wednesday through Sunday (7 AM to 1 PM weekdays and 6 AM to 1 PM weekends), this market features well over 100 vendors—some with over five generations of local farming experience—under the iconic red sheds that protect shoppers and farmers from the elements. The market boasts one of the most diverse collections of market vendors in the Upper Midwest, with vendors hailing from all over the world including Laos, Trinidad, and California. With over 170 permanent and rotating vendors, shoppers will find the full rainbow of local produce, flowers and plants, plus eggs, locally raised beef, pork, buffalo, poultry, goat, lamb, fresh and smoked trout, Alaskan salmon, codfish, baked goods, hummus, maple syrup, honey, pickles, artisan cheeses, jams, jellies, wild rice, and pasta. The market offers abundant free parking and serves as a cornerstone of Minneapolis' local food system.</p>",
+		"longDescription": "<p>The Minneapolis Farmers Market on Lyndale is the largest farmer-managed farmers market in Minnesota, with a rich history dating back to 1876 when it first opened in downtown Minneapolis before relocating to its current location at Lyndale and Glenwood Avenue North in 1937. Operating Wednesday through Sunday (7 AM to 1 PM weekdays and 6 AM to 1 PM weekends), this market features well over 100 vendors\u2014some with over five generations of local farming experience\u2014under the iconic red sheds that protect shoppers and farmers from the elements. The market boasts one of the most diverse collections of market vendors in the Upper Midwest, with vendors hailing from all over the world including Laos, Trinidad, and California. With over 170 permanent and rotating vendors, shoppers will find the full rainbow of local produce, flowers and plants, plus eggs, locally raised beef, pork, buffalo, poultry, goat, lamb, fresh and smoked trout, Alaskan salmon, codfish, baked goods, hummus, maple syrup, honey, pickles, artisan cheeses, jams, jellies, wild rice, and pasta. The market offers abundant free parking and serves as a cornerstone of Minneapolis' local food system.</p>",
 		"image": "/images/resources/minnesota/minneapolis-farmers-market-lyndale.avif",
 		"phone": "+1 612-333-1718",
 		"hours": {
@@ -5600,7 +5600,7 @@
 		"id": "194",
 		"title": "Bozeman Farmers Market",
 		"description": "Award-winning farmers market voted 'Best THING in Bozeman' and 'Best Farmers Market', celebrating its 23rd season in beautiful Lindley Park.",
-		"longDescription": "<p>The Bozeman Farmers Market is an award-winning community institution that has been voted both the 'Best THING in Bozeman' and 'Best Farmers Market' by local residents. Celebrating its 23rd season in 2025, this vibrant market operates every Tuesday from 5 PM to 8 PM during the season (June 17 through September 9) in the beautiful setting of Lindley Park at 900 East Main Street. The market embodies the spirit of community with its motto 'Life's a garden…dig it!' and demonstrates a strong commitment to environmental stewardship by dedicating a portion of its revenues every year to the preservation and improvements of Bozeman Parks. This unique partnership between the market and the city's park system reflects the market's philosophy to 'Promote, Preserve and Play together.' The market features local farmers, artisans, food vendors, and craftspeople offering fresh Montana-grown produce, handmade goods, prepared foods, and unique items that celebrate the agricultural richness and creative spirit of the Gallatin Valley, making it an essential weekly gathering place for the Bozeman community.</p>",
+		"longDescription": "<p>The Bozeman Farmers Market is an award-winning community institution that has been voted both the 'Best THING in Bozeman' and 'Best Farmers Market' by local residents. Celebrating its 23rd season in 2025, this vibrant market operates every Tuesday from 5 PM to 8 PM during the season (June 17 through September 9) in the beautiful setting of Lindley Park at 900 East Main Street. The market embodies the spirit of community with its motto 'Life's a garden\u2026dig it!' and demonstrates a strong commitment to environmental stewardship by dedicating a portion of its revenues every year to the preservation and improvements of Bozeman Parks. This unique partnership between the market and the city's park system reflects the market's philosophy to 'Promote, Preserve and Play together.' The market features local farmers, artisans, food vendors, and craftspeople offering fresh Montana-grown produce, handmade goods, prepared foods, and unique items that celebrate the agricultural richness and creative spirit of the Gallatin Valley, making it an essential weekly gathering place for the Bozeman community.</p>",
 		"image": "/images/resources/montana/bozeman-farmers-market.avif",
 		"phone": "+1 406-586-4008",
 		"hours": {
@@ -6732,7 +6732,7 @@
 		"title": "Santa Fe Farmers Market - Railyard",
 		"description": "Regularly voted among the top ten markets in the country, featuring 130+ local farmers and producers from Northern New Mexico.",
 		"longDescription": "<p>The Santa Fe Farmers Market is regularly voted among the top ten markets in the country, hosting up to 130 local farmers and producers from 15 Northern New Mexico counties. Operating year-round at the historic Railyard District, this market embodies the #TrulyLocal philosophy where vendors only sell agricultural products that they grow themselves, or crafts and processed items that they make with agricultural products from the area. You won't find anything from out of state, making the Santa Fe Farmers Market truly local. The market features fresh produce, artisan breads, local honey, grass-fed meats, and handcrafted items in a vibrant community atmosphere.</p>",
-		"image": "/images/resources/image-soon.png",
+		"image": "/images/resources/new-mexico/santa-fe-farmers-market.jpg",
 		"phone": "+1 505-983-4098",
 		"hours": {
 			"monday": "",
@@ -6761,7 +6761,7 @@
 		"title": "Las Cruces Farmers & Crafts Market",
 		"description": "Rated one of the top farmers markets in the country, operating for over 50 years with hundreds of vendors selling locally made food, crafts, and produce.",
 		"longDescription": "<p>For over 50 years, the Farmers & Crafts Markets of Las Cruces has featured hundreds of vendors selling locally made food, crafts, and produce. Rated as one of the top farmers markets in the country, this market offers visitors an opportunity to experience the people and culture of the Mesilla Valley. From southwest inspired art to chile-infused foods and live music, the market is family-friendly and showcases Southern New Mexico's rich farming and ranching tradition. All goods sold are hand-made and local, with everything from jewelry and metalwork to paintings and fiber art produced in the State of New Mexico. The market features a steady supply of local produce growers offering organic options, farm fresh eggs, grass fed beef, and assorted cheeses.</p>",
-		"image": "/images/resources/image-soon.png",
+		"image": "/images/resources/new-mexico/las-cruces-farmers-crafts-market.jpg",
 		"phone": "+1 575-541-2287",
 		"hours": {
 			"monday": "",
@@ -6789,8 +6789,8 @@
 		"id": "236",
 		"title": "Taos Farmers Market",
 		"description": "One of New Mexico's most diverse and visited farmers markets, ranked #1 by TripAdvisor, supporting stewardship of Northern New Mexico lands.",
-		"longDescription": "<p>Welcome to one of New Mexico's most diverse and visited farmers markets! The Taos Farmers Market operates year-round at the Taos County Courthouse, bringing together local farmers and artisans in the heart of historic Taos. Whether you're a tourist or a bonafide Taoseño, this market offers an authentic taste of Northern New Mexico. In supporting our farmers, we support stewardship of our beautiful Northern New Mexico lands. The market features fresh produce from local counties, artisan goods, and prepared foods, all while offering comprehensive food assistance programs including EBT/SNAP exchanges, Double Up Food Bucks, and FreshRX partnerships with El Centro Health Clinic.</p>",
-		"image": "/images/resources/image-soon.png",
+		"longDescription": "<p>Welcome to one of New Mexico's most diverse and visited farmers markets! The Taos Farmers Market operates year-round at the Taos County Courthouse, bringing together local farmers and artisans in the heart of historic Taos. Whether you're a tourist or a bonafide Taose\u00f1o, this market offers an authentic taste of Northern New Mexico. In supporting our farmers, we support stewardship of our beautiful Northern New Mexico lands. The market features fresh produce from local counties, artisan goods, and prepared foods, all while offering comprehensive food assistance programs including EBT/SNAP exchanges, Double Up Food Bucks, and FreshRX partnerships with El Centro Health Clinic.</p>",
+		"image": "/images/resources/new-mexico/taos-farmers-market.jpg",
 		"phone": "+1 575-751-7575",
 		"hours": {
 			"monday": "",
@@ -6819,7 +6819,7 @@
 		"title": "Corrales Growers Market",
 		"description": "Supporting traditional agricultural economics of Corrales Village with 29+ vendors offering locally grown food and sustainable agricultural products.",
 		"longDescription": "<p>The Corrales Growers Market operates to support the traditional agricultural economics of the Village of Corrales and to provide community access to sustainable sources of locally grown food. Operating every Sunday, this market supports the preservation of farmland, the sustainability of family farms and local agricultural production by providing agricultural producers a marketing facility for the sale of their products directly to consumers. With 29+ vendors including farms, artisans, and food producers, the market features everything from spring green garlic and fresh herbs to grass-fed beef, artisan breads, and honey products. The market emphasizes natural farming techniques and works in concert with the local ecosystem.</p>",
-		"image": "/images/resources/image-soon.png",
+		"image": "/images/resources/new-mexico/corrales-growers-market.jpg",
 		"phone": "+1 505-898-8926",
 		"hours": {
 			"monday": "",
@@ -6848,7 +6848,7 @@
 		"title": "Rail Yards Market ABQ",
 		"description": "Albuquerque's premier Sunday farmers market with 200+ farm, food, and art vendors in the historic Barelas Rail Yards district.",
 		"longDescription": "<p>The Rail Yards Market of Albuquerque operates as a non-profit run growers market in the historic Barelas Rail Yards district. Operating Sundays from May through October, this vibrant market features over 200 farm, food, and art vendors, making it one of Albuquerque's premier community gathering places. The market emphasizes local agriculture, artisan crafts, and prepared foods while accepting EBT/SNAP benefits to ensure community access. Located in the revitalized Rail Yards area, the market combines historic charm with contemporary community spirit, offering everything from fresh produce and baked goods to handcrafted art and live entertainment.</p>",
-		"image": "/images/resources/image-soon.png",
+		"image": "/images/resources/new-mexico/rail-yards-market-abq.jpg",
 		"phone": "+1 505-243-7417",
 		"hours": {
 			"monday": "",
@@ -6877,7 +6877,7 @@
 		"title": "Downtown Growers Market",
 		"description": "Albuquerque's downtown farmers market bringing fresh, local produce and artisan goods to the heart of the city.",
 		"longDescription": "<p>The Downtown Growers Market serves as Albuquerque's central farmers market, bringing fresh, local produce and artisan goods to the heart of the city. This market focuses on connecting urban consumers with local agricultural producers, offering a convenient location for downtown residents and workers to access fresh, locally grown food. The market features seasonal produce from New Mexico farms, artisan breads, local honey, and handcrafted goods. Operating in downtown Albuquerque, this market serves as an important community gathering place while supporting local agriculture and small businesses throughout the region.</p>",
-		"image": "/images/resources/image-soon.png",
+		"image": "/images/resources/new-mexico/downtown-growers-market.jpg",
 		"phone": "+1 505-764-3948",
 		"hours": {
 			"monday": "",
@@ -6906,7 +6906,7 @@
 		"title": "Los Ranchos Growers Market",
 		"description": "Village of Los Ranchos farmers market featuring local agricultural products and artisan goods in a charming rural setting.",
 		"longDescription": "<p>The Los Ranchos Growers Market operates in the charming Village of Los Ranchos de Albuquerque, maintaining the area's agricultural heritage while serving the greater Albuquerque community. This market emphasizes locally grown produce, artisan crafts, and traditional New Mexican products in a rural village setting. The market supports local farmers and artisans while preserving the agricultural character of Los Ranchos, one of New Mexico's oldest communities. Visitors can enjoy fresh seasonal produce, baked goods, local honey, and handcrafted items while experiencing the historic charm of this traditional farming community.</p>",
-		"image": "/images/resources/image-soon.png",
+		"image": "/images/resources/new-mexico/los-ranchos-growers-market.jpg",
 		"phone": "+1 505-898-7493",
 		"hours": {
 			"monday": "",
@@ -6932,10 +6932,10 @@
 	},
 	{
 		"id": "241",
-		"title": "Española Farmers Market",
-		"description": "Northern New Mexico farmers market serving the Española Valley with traditional agricultural products and local crafts.",
-		"longDescription": "<p>The Española Farmers Market serves the historic Española Valley in Northern New Mexico, an area known for its rich agricultural heritage and traditional farming practices. This market brings together local farmers, artisans, and food producers from the Española Valley and surrounding areas, offering fresh seasonal produce, traditional New Mexican foods, and handcrafted goods. The market emphasizes the region's cultural heritage, featuring products that reflect the area's Hispanic and Native American traditions. Visitors can find everything from fresh chile and traditional breads to local honey and handwoven textiles, all while supporting the agricultural economy of Northern New Mexico.</p>",
-		"image": "/images/resources/image-soon.png",
+		"title": "Espa\u00f1ola Farmers Market",
+		"description": "Northern New Mexico farmers market serving the Espa\u00f1ola Valley with traditional agricultural products and local crafts.",
+		"longDescription": "<p>The Espa\u00f1ola Farmers Market serves the historic Espa\u00f1ola Valley in Northern New Mexico, an area known for its rich agricultural heritage and traditional farming practices. This market brings together local farmers, artisans, and food producers from the Espa\u00f1ola Valley and surrounding areas, offering fresh seasonal produce, traditional New Mexican foods, and handcrafted goods. The market emphasizes the region's cultural heritage, featuring products that reflect the area's Hispanic and Native American traditions. Visitors can find everything from fresh chile and traditional breads to local honey and handwoven textiles, all while supporting the agricultural economy of Northern New Mexico.</p>",
+		"image": "/images/resources/new-mexico/espa\u00f1ola-farmers-market.jpg",
 		"phone": "+1 505-747-6100",
 		"hours": {
 			"monday": "",
@@ -6949,8 +6949,8 @@
 		"externalUrl": "https://farmersmarketsnm.org/",
 		"sponsored": false,
 		"address": {
-			"street": "405 N Paseo de Oñate",
-			"city": "Española",
+			"street": "405 N Paseo de O\u00f1ate",
+			"city": "Espa\u00f1ola",
 			"state": "New Mexico",
 			"zip": "87532"
 		},
@@ -7166,7 +7166,7 @@
 		"id": "249",
 		"title": "Rhinebeck Farmers Market",
 		"description": "Hudson Valley market operating every Sunday from May to December, featuring local produce, flowers, bee products, and craft beverages.",
-		"longDescription": "<p>The Rhinebeck Farmers Market is open every Sunday from May 5 to December 29, rain or shine from 10:00 AM to 2:00 PM. Located in the charming Hudson Valley town of Rhinebeck, this market features vendors that are sure to please shoppers looking for skin remedies, produce, flowers, bee products, alpaca fleece, kombucha, meat, and beer—all unique to the area. The market emphasizes local and regional products, supporting Hudson Valley agriculture and artisanship while serving both residents and the many visitors who come to explore this historic and picturesque region. The market's consistent schedule and diverse vendor mix make it a reliable destination for fresh, local products throughout most of the year.</p>",
+		"longDescription": "<p>The Rhinebeck Farmers Market is open every Sunday from May 5 to December 29, rain or shine from 10:00 AM to 2:00 PM. Located in the charming Hudson Valley town of Rhinebeck, this market features vendors that are sure to please shoppers looking for skin remedies, produce, flowers, bee products, alpaca fleece, kombucha, meat, and beer\u2014all unique to the area. The market emphasizes local and regional products, supporting Hudson Valley agriculture and artisanship while serving both residents and the many visitors who come to explore this historic and picturesque region. The market's consistent schedule and diverse vendor mix make it a reliable destination for fresh, local products throughout most of the year.</p>",
 		"image": "/images/resources/image-soon.png",
 		"phone": "+1 845-876-4922",
 		"hours": {
@@ -7920,7 +7920,7 @@
 		"id": "275",
 		"title": "Oklahoma City Farmers Public Market",
 		"description": "Historic farmers market operating since 1928 in a 40,000 square foot building, serving as a centralized local food hub connecting Oklahoma farmers and ranchers with the community.",
-		"longDescription": "<p>The Oklahoma City Farmers Public Market carries the distinguished heritage of nearly a century of service, with its founding dating back to 1927 when local entrepreneur John J. Harden negotiated with the city to create what remains today as the Farmers Public Market. Officially opened on June 16, 1928, this historic 40,000 square foot building was constructed on the former site of the Delmar Gardens Amusement Park to resolve the ongoing conflict between local farmers and downtown businessmen over street congestion caused by farmers selling produce from trucks and wagons on downtown streets.</p><p>In its heyday, the building featured a downstairs market where farmers sold fresh produce and an upstairs Market Garden Ballroom that hosted concerts, dances, boxing matches, and roller-skating. The comprehensive facility also housed a meat market, candy store, bakery, café, and drug store, making it a true community hub. Under the stewardship of Burt and Jody McAnally for over 20 years, the market has blossomed into an ever-dynamic and expanding community environment with growing economic opportunities for new businesses and local vendors.</p><p>Today's Saturday Farmers Market creates a space that connects Oklahoma farmers and ranchers with the general shopping public, while the facility has also evolved into a premier wedding and event venue, winning multiple awards over the years. The market continues to honor its original mission of providing a centralized marketplace for local agricultural products while adapting to serve the modern community's diverse needs through its combination of fresh food access, cultural events, and economic development opportunities.</p>",
+		"longDescription": "<p>The Oklahoma City Farmers Public Market carries the distinguished heritage of nearly a century of service, with its founding dating back to 1927 when local entrepreneur John J. Harden negotiated with the city to create what remains today as the Farmers Public Market. Officially opened on June 16, 1928, this historic 40,000 square foot building was constructed on the former site of the Delmar Gardens Amusement Park to resolve the ongoing conflict between local farmers and downtown businessmen over street congestion caused by farmers selling produce from trucks and wagons on downtown streets.</p><p>In its heyday, the building featured a downstairs market where farmers sold fresh produce and an upstairs Market Garden Ballroom that hosted concerts, dances, boxing matches, and roller-skating. The comprehensive facility also housed a meat market, candy store, bakery, caf\u00e9, and drug store, making it a true community hub. Under the stewardship of Burt and Jody McAnally for over 20 years, the market has blossomed into an ever-dynamic and expanding community environment with growing economic opportunities for new businesses and local vendors.</p><p>Today's Saturday Farmers Market creates a space that connects Oklahoma farmers and ranchers with the general shopping public, while the facility has also evolved into a premier wedding and event venue, winning multiple awards over the years. The market continues to honor its original mission of providing a centralized marketplace for local agricultural products while adapting to serve the modern community's diverse needs through its combination of fresh food access, cultural events, and economic development opportunities.</p>",
 		"image": "/images/resources/image-soon.png",
 		"phone": "+1 405-000-0000",
 		"hours": {
@@ -10722,7 +10722,7 @@
 		"id": "377",
 		"title": "Wardensville Garden Market",
 		"description": "Unique combination of farm, market, and bakery featuring certified organic produce and educational programs for local students.",
-		"longDescription": "<p>The Wardensville Garden Market represents a unique concept that combines three essential elements: 'One part farm. One part market. One part bakery.' This innovative approach creates more than just a marketplace—it's a comprehensive agricultural and educational experience. The farm is certified organic and employs and teaches local high school students valuable skills that will last a lifetime, making it both a business and an educational institution. Students gain hands-on experience in organic farming practices, sustainable agriculture, and food production, creating a bridge between traditional farming knowledge and modern sustainable practices. The market component provides farm-fresh produce, local meat, and from-scratch baked goods, all produced on-site or sourced from the immediate area. The bakery element adds artisanal baked goods made from scratch, often using ingredients grown on the farm itself. Located in Wardensville, in the scenic Hardy County area of West Virginia's Eastern Panhandle, the market serves both local residents and visitors to this rural region. The combination of certified organic farming, educational programming, and diverse food offerings makes Wardensville Garden Market a model for sustainable, community-based agriculture that benefits both consumers and the next generation of farmers.</p>",
+		"longDescription": "<p>The Wardensville Garden Market represents a unique concept that combines three essential elements: 'One part farm. One part market. One part bakery.' This innovative approach creates more than just a marketplace\u2014it's a comprehensive agricultural and educational experience. The farm is certified organic and employs and teaches local high school students valuable skills that will last a lifetime, making it both a business and an educational institution. Students gain hands-on experience in organic farming practices, sustainable agriculture, and food production, creating a bridge between traditional farming knowledge and modern sustainable practices. The market component provides farm-fresh produce, local meat, and from-scratch baked goods, all produced on-site or sourced from the immediate area. The bakery element adds artisanal baked goods made from scratch, often using ingredients grown on the farm itself. Located in Wardensville, in the scenic Hardy County area of West Virginia's Eastern Panhandle, the market serves both local residents and visitors to this rural region. The combination of certified organic farming, educational programming, and diverse food offerings makes Wardensville Garden Market a model for sustainable, community-based agriculture that benefits both consumers and the next generation of farmers.</p>",
 		"image": "/images/resources/image-soon.png",
 		"address": {
 			"street": "See website for location",
