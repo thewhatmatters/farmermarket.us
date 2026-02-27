@@ -6,6 +6,16 @@ import type { PageLoad } from './$types';
 
 export const prerender = true;
 
+// Generate all possible entries for prerendering
+export function entries() {
+	return resources
+		.filter((r) => r.address && r.address.state && r.title)
+		.map((r) => ({
+			state: slugify(r.address.state),
+			slug: slugify(r.title)
+		}));
+}
+
 export const load: PageLoad = ({ params, url }) => {
 	const { state, slug } = params;
 
