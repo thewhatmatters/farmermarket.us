@@ -9,6 +9,8 @@ excerpt: 'Spring is almost here! Discover the first seasonal vegetables and frui
 
 After months of winter squash and root vegetables, your local farmers market is about to burst with color. March marks the beginning of spring produce season, and if you know what to look for, you'll find some of the year's most anticipated flavors making their first appearances.
 
+![Fresh asparagus at the farmers market](/images/blog/2026-02/asparagus-spring.jpg)
+
 ## The Spring Produce Stars
 
 **Asparagus** — The ultimate harbinger of spring, asparagus begins appearing at markets in late February and early March. Look for firm, bright green (or purple!) stalks with tightly closed tips. The fresher the asparagus, the sweeter and more tender it will be — and farmers market asparagus, picked just hours before market, is as fresh as it gets.
@@ -24,6 +26,8 @@ After months of winter squash and root vegetables, your local farmers market is 
 **Radishes** — Spring radishes are sweeter and less peppery than summer varieties. Look for Easter egg radishes, watermelon radishes, and the classic French breakfast variety. They're perfect raw with butter and salt or quickly roasted to mellow their bite.
 
 **Tender Greens** — Spinach, arugula, mâche, and young lettuces return to market tables as temperatures rise. These tender leaves are perfect for salads that actually satisfy after months of heavier winter fare.
+
+![Sweet peas ready for the kitchen](/images/blog/2026-02/peas-spring.jpg)
 
 ## What to Do With Spring's Bounty
 
