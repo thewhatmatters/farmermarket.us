@@ -19,7 +19,7 @@ Unlike cottage cheese, farmer's cheese has a smoother texture that spreads easil
 
 And here's what makes it perfect for farmers market enthusiasts: many small-batch dairy vendors at your local market make it right on-site, using milk from their own cows, goats, or sheep.
 
-![Fresh farmer's cheese with herbs](/images/blog/2026-02/farmers-cheese-recipes.jpg 'Fresh farmer's cheese with herbs')
+![Fresh farmer's cheese with herbs](/images/blog/2026-02/farmers-cheese-recipes.jpg)
 
 ## Why 2026 Is Farmer's Cheese's Year
 
