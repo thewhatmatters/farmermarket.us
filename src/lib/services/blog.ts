@@ -4,12 +4,14 @@ import { processMarkdown, type BlogPost } from '$lib/utils/markdown';
 import yourLocalFoodAdventureMd from '$lib/content/blog/your-local-food-adventure-starts-here.md?raw';
 import july4thRecipesMd from '$lib/content/blog/july-4th-farmers-market-recipes.md?raw';
 import farmersCheeseMd from '$lib/content/blog/farmers-cheese-2026-trend.md?raw';
+import springProduceMd from '$lib/content/blog/spring-produce-march-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
 	{ slug: 'july-4th-farmers-market-recipes', content: july4thRecipesMd },
 	{ slug: 'your-local-food-adventure-starts-here', content: yourLocalFoodAdventureMd },
-	{ slug: 'farmers-cheese-2026-trend', content: farmersCheeseMd }
+	{ slug: 'farmers-cheese-2026-trend', content: farmersCheeseMd },
+	{ slug: 'spring-produce-march-2026', content: springProduceMd }
 ];
 
 // Cache for processed posts
