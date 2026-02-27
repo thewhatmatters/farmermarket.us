@@ -17,9 +17,9 @@ const config = {
 			// these options are set automatically — see below
 			pages: 'build',
 			assets: 'build',
-			fallback: 'index.html', // This enables SPA mode for client-side routing
+			fallback: undefined,
 			precompress: false,
-			strict: false // Allow dynamic routes to be handled client-side
+			strict: true
 		}),
 		prerender: {
 			entries,
