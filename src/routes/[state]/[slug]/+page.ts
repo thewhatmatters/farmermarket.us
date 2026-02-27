@@ -4,6 +4,8 @@ import { config } from '$lib/config';
 import resources from '$lib/data/resources.json';
 import type { PageLoad } from './$types';
 
+export const prerender = true;
+
 export const load: PageLoad = ({ params, url }) => {
 	const { state, slug } = params;
 
