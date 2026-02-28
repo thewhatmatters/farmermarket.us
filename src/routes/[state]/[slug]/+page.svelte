@@ -102,30 +102,30 @@
 
 	<!-- JSON-LD Structured Data -->
 	{@html `<script type="application/ld+json">
-	{
-		"@context": "https://schema.org",
-		"@type": "WebPage",
-		"name": "${resource.title}",
-		"description": "${resource.description || `Discover ${resource.title} and more resources on ${config.siteName}.`}",
-		"url": "${canonicalUrl}",
-		"image": "${siteUrl}${resource.image}",
-		"publisher": {
-			"@type": "Organization",
-			"name": "${config.siteName}",
-			"url": "${siteUrl}"
-		},
-		"mainEntity": {
-			"@type": "SoftwareApplication",
-			"name": "${resource.title}",
-			"description": "${resource.description || `Discover ${resource.title} and more resources on ${config.siteName}.`}",
-			"url": "${resource.externalUrl}",
-			"applicationState": "${resource.address.state
-				.split('-')
-				.map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-				.join(' ')}",
-			"image": "${siteUrl}${resource.image}"
-		}
-	}
+${JSON.stringify({
+	"@context": "https://schema.org",
+	"@type": "FarmersMarket",
+	"name": resource.title,
+	"description": resource.description || `Discover ${resource.title} on ${config.siteName}`,
+	"image": `${siteUrl}${resource.image}`,
+	"url": canonicalUrl,
+	"telephone": resource.phone || undefined,
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": resource.address.street,
+		"addressLocality": resource.address.city,
+		"addressRegion": resource.address.state,
+		"postalCode": resource.address.zip,
+		"addressCountry": "US"
+	},
+	"geo": resource.coordinates ? {
+		"@type": "GeoCoordinates",
+		"latitude": resource.coordinates.lat,
+		"longitude": resource.coordinates.lng
+	} : undefined,
+	"openingHours": resource.hours || undefined,
+	"priceRange": "$"
+}, null, '	')}
 	</script>`}
 </svelte:head>
 
