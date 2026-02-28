@@ -30,3 +30,5 @@ entries.push('/blog/farmers-cheese-2026-trend');
 entries.push('/blog/spring-produce-march-2026');
 
 module.exports = { entries };
+entries.push('/texas/texas-farmers-market-at-bell');
+entries.push('/texas/the-domain-farmers-market');
