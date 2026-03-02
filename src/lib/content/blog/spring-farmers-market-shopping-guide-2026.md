@@ -35,7 +35,7 @@ The difference between a good market trip and a frustrating one often comes down
 
 **Snacks and Water:** Markets are meant to be enjoyed slowly. Bring water and a small snack to graze your way through without rushing.
 
-![Fresh spring greens in reusable bags](/images/blog/2026-03/spring-greens-bags.jpg)
+![Fresh spring greens in reusable bags](/images/blog/2026-02/spring-produce-header.jpg)
 
 ## At the Market: Smart Shopping Strategies
 
@@ -62,7 +62,7 @@ Vendors love sharing their knowledge, and you will learn things no grocery store
 
 **Build Relationships:** The more consistently you visit, the more familiar you become with vendors. They will start setting aside the best items, offering special deals, and giving you cooking tips specific to their products.
 
-![Talking with a farmer at the market](/images/blog/2026-03/farmer-customer-chat.jpg)
+![Talking with a farmer at the market](/images/blog/2026-02/spring-produce-header.jpg)
 
 ## Spring Produce: What to Look For
 
@@ -110,7 +110,7 @@ The more regularly you attend, the more you will get out of the experience. You 
 
 Instead of meal planning and hoping vendors have what you need, flip the script. Visit the market first, see what looks incredible, then build your meals around those ingredients. This is the essence of seasonal eating — and it leads to more delicious, interesting meals.
 
-![Colorful spring vegetables at market](/images/blog/2026-03/colorful-spring-veggies.jpg)
+![Colorful spring vegetables at market](/images/blog/2026-02/asparagus-spring.jpg)
 
 ## After the Market: Storage and Prep
 
