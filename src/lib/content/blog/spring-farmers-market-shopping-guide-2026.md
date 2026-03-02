@@ -3,13 +3,13 @@ title: 'Your Complete Spring Farmers Market Shopping Guide for 2026'
 description: 'From tote bags to timing strategies, this practical guide covers everything you need to know to make the most of your farmers market visits this spring.'
 date: '2026-03-02'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-03/spring-market-shopping-guide.jpg'
+image: '/images/blog/2026-02/spring-produce-header.jpg'
 excerpt: 'Spring farmers markets are back! Whether you are a seasoned shopper or planning your first visit, these practical tips will help you navigate the stalls like a pro.'
 ---
 
 Spring is finally here, and farmers markets across the country are waking up from their winter slumber. Whether you are a veteran market-goer or gearing up for your very first visit, a little preparation goes a long way toward having the best possible experience.
 
-![Farmers market bags and fresh produce](/images/blog/2026-03/market-bags-produce.jpg)
+![Farmers market bags and fresh produce](/images/blog/2026-02/spring-produce-header.jpg)
 
 ## Before You Go: Preparation Tips
 
