@@ -17,7 +17,7 @@ export const config = {
 		customAds: [
 			{
 				id: 'custom-og',
-				image: '/ads/root-cellar.png',
+				image: '/ads/root-cellar.avif',
 				url: 'https://rootcellar.co?ref=farmermarket.us'
 			}
 		],
