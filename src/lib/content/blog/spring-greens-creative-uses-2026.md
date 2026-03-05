@@ -3,13 +3,13 @@ title: 'Beyond Salad: Creative Ways to Use Spring Greens'
 description: 'From wilted spinach to spring onion pesto, discover how to make the most of tender spring greens beyond the basic salad. Plus, meet the farmers growing your greens.'
 date: '2026-03-04'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-02/spring-produce-header.jpg'
+image: '/images/blog/2026-02/spring-greens-uses.avif'
 excerpt: 'From wilted spinach to spring onion pesto, discover how to make the most of tender spring greens beyond the basic salad. Plus, meet the farmers growing your greens.'
 ---
 
 Spring greens are hitting farmers markets across the country, and while a simple salad with lemon and olive oil is delicious, there's a whole world of possibilities waiting in those tender leaves. Whether you're a market regular or it's your first spring visit, here's how to transform those delicate greens into something extraordinary.
 
-![Fresh spring peas and greens at the farmers market](/images/blog/2026-02/spring-produce-header.jpg)
+![Fresh spring peas and greens at the farmers market](/images/blog/2026-02/spring-greens-uses.avif)
 
 ## The Spring Greens You’ll Find in March
 

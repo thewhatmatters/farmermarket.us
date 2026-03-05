@@ -3,13 +3,13 @@ title: 'Your Complete Spring Farmers Market Shopping Guide for 2026'
 description: 'From tote bags to timing strategies, this practical guide covers everything you need to know to make the most of your farmers market visits this spring.'
 date: '2026-03-02'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-02/spring-produce-header.jpg'
+image: '/images/blog/2026-02/spring-shopping-guide.avif'
 excerpt: 'Spring farmers markets are back! Whether you are a seasoned shopper or planning your first visit, these practical tips will help you navigate the stalls like a pro.'
 ---
 
 Spring is finally here, and farmers markets across the country are waking up from their winter slumber. Whether you are a veteran market-goer or gearing up for your very first visit, a little preparation goes a long way toward having the best possible experience.
 
-![Farmers market bags and fresh produce](/images/blog/2026-02/spring-produce-header.jpg)
+![Farmers market bags and fresh produce](/images/blog/2026-02/spring-shopping-guide.avif)
 
 ## Before You Go: Preparation Tips
 
@@ -35,7 +35,7 @@ The difference between a good market trip and a frustrating one often comes down
 
 **Snacks and Water:** Markets are meant to be enjoyed slowly. Bring water and a small snack to graze your way through without rushing.
 
-![Fresh spring greens in reusable bags](/images/blog/2026-02/spring-produce-header.jpg)
+![Fresh spring greens in reusable bags](/images/blog/2026-02/spring-shopping-guide.avif)
 
 ## At the Market: Smart Shopping Strategies
 
@@ -62,7 +62,7 @@ Vendors love sharing their knowledge, and you will learn things no grocery store
 
 **Build Relationships:** The more consistently you visit, the more familiar you become with vendors. They will start setting aside the best items, offering special deals, and giving you cooking tips specific to their products.
 
-![Talking with a farmer at the market](/images/blog/2026-02/spring-produce-header.jpg)
+![Talking with a farmer at the market](/images/blog/2026-02/spring-shopping-guide.avif)
 
 ## Spring Produce: What to Look For
 
