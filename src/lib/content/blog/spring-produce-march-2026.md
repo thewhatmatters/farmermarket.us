@@ -3,13 +3,13 @@ title: 'First Signs of Spring: What to Find at Your Farmers Market in March'
 description: 'Spring is almost here! Discover the first seasonal vegetables and fruits making their way to farmers markets this March — from tender asparagus to sweet peas.'
 date: '2026-02-27'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-02/spring-produce-header.jpg'
+image: '/images/blog/2026-02/spring-header.avif'
 excerpt: 'Spring is almost here! Discover the first seasonal vegetables and fruits making their way to farmers markets this March — from tender asparagus to sweet peas.'
 ---
 
 After months of winter squash and root vegetables, your local farmers market is about to burst with color. March marks the beginning of spring produce season, and if you know what to look for, you'll find some of the year's most anticipated flavors making their first appearances.
 
-![Fresh asparagus at the farmers market](/images/blog/2026-02/asparagus-spring.jpg)
+![Fresh asparagus at the farmers market](/images/blog/2026-02/fresh-asparagus.avif)
 
 ## The Spring Produce Stars
 
@@ -27,7 +27,7 @@ After months of winter squash and root vegetables, your local farmers market is 
 
 **Tender Greens** — Spinach, arugula, mâche, and young lettuces return to market tables as temperatures rise. These tender leaves are perfect for salads that actually satisfy after months of heavier winter fare.
 
-![Sweet peas ready for the kitchen](/images/blog/2026-02/peas-spring.jpg)
+![Sweet peas ready for the kitchen](/images/blog/2026-02/fresh-peas.avif)
 
 ## What to Do With Spring's Bounty
 

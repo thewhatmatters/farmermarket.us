@@ -15,7 +15,7 @@ If you have been hibernating all winter, now is the time to shake off the frost 
 
 Spring produce is all about freshness and flavor. These early crops grow quickly in cool weather, delivering tender textures and bright tastes that have been missing from your plate since last fall.
 
-![Fresh spring vegetables at market](/images/blog/2026-02/spring-farmers-market-produce.jpg)
+![Fresh spring vegetables at market](/images/blog/2026-02/spring-awaken-1.avif)
 
 ### Asparagus: The Ultimate Spring Indicator
 
@@ -47,7 +47,7 @@ Yes, rhubarb is technically a vegetable. No, that does not stop us from turning 
 
 **Try this:** Simmer rhubarb with strawberries and a touch of honey for a simple compote that transforms yogurt, oatmeal, or ice cream.
 
-![Spring rhubarb and strawberries](/images/blog/2026-02/spring-rhubarb-recipes.jpg)
+![Spring rhubarb and strawberries](/images/blog/2026-02/spring-awaken-2.avif)
 
 ## Spring Market Shopping Tips
 

@@ -9,7 +9,11 @@ excerpt: 'From wilted spinach to spring onion pesto, discover how to make the mo
 
 Spring greens are hitting farmers markets across the country, and while a simple salad with lemon and olive oil is delicious, there's a whole world of possibilities waiting in those tender leaves. Whether you're a market regular or it's your first spring visit, here's how to transform those delicate greens into something extraordinary.
 
-![Fresh spring peas and greens at the farmers market](/images/blog/2026-02/spring-greens-uses.avif)
+![Fresh spring peas and greens at the farmers market](/images/blog/2026-02/spring-greens-1.avif)
+
+![Creative spring greens dishes](/images/blog/2026-02/spring-greens-2.avif)
+
+![Farm fresh greens bundle](/images/blog/2026-02/spring-greens-3.avif)
 
 ## The Spring Greens You’ll Find in March
 

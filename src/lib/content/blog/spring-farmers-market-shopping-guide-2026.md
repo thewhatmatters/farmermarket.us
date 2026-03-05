@@ -9,7 +9,7 @@ excerpt: 'Spring farmers markets are back! Whether you are a seasoned shopper or
 
 Spring is finally here, and farmers markets across the country are waking up from their winter slumber. Whether you are a veteran market-goer or gearing up for your very first visit, a little preparation goes a long way toward having the best possible experience.
 
-![Farmers market bags and fresh produce](/images/blog/2026-02/spring-shopping-guide.avif)
+![Farmers market bags and fresh produce](/images/blog/2026-02/spring-shop-2.avif)
 
 ## Before You Go: Preparation Tips
 
@@ -35,7 +35,7 @@ The difference between a good market trip and a frustrating one often comes down
 
 **Snacks and Water:** Markets are meant to be enjoyed slowly. Bring water and a small snack to graze your way through without rushing.
 
-![Fresh spring greens in reusable bags](/images/blog/2026-02/spring-shopping-guide.avif)
+![Fresh spring greens in reusable bags](/images/blog/2026-02/spring-shop-3.avif)
 
 ## At the Market: Smart Shopping Strategies
 
@@ -62,7 +62,7 @@ Vendors love sharing their knowledge, and you will learn things no grocery store
 
 **Build Relationships:** The more consistently you visit, the more familiar you become with vendors. They will start setting aside the best items, offering special deals, and giving you cooking tips specific to their products.
 
-![Talking with a farmer at the market](/images/blog/2026-02/spring-shopping-guide.avif)
+![Talking with a farmer at the market](/images/blog/2026-02/spring-shop-1.avif)
 
 ## Spring Produce: What to Look For
 
@@ -110,7 +110,7 @@ The more regularly you attend, the more you will get out of the experience. You 
 
 Instead of meal planning and hoping vendors have what you need, flip the script. Visit the market first, see what looks incredible, then build your meals around those ingredients. This is the essence of seasonal eating — and it leads to more delicious, interesting meals.
 
-![Colorful spring vegetables at market](/images/blog/2026-02/asparagus-spring.jpg)
+![Colorful spring vegetables at market](/images/blog/2026-02/fresh-asparagus.avif)
 
 ## After the Market: Storage and Prep
 
