@@ -17,8 +17,8 @@ export const config = {
 		customAds: [
 			{
 				id: 'custom-og',
-				image: '/ads/custom-og.png',
-				url: 'https://customog.com?ref=hqdirectory'
+				image: '/ads/root-cellar.png',
+				url: 'https://rootcellar.co?ref=farmermarket.us'
 			}
 		],
 		// Google Ads configuration (for future use)
