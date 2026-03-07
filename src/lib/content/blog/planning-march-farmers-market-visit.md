@@ -3,7 +3,7 @@ title: 'Planning Your March Farmers Market Visit'
 description: 'What to expect at farmers markets in early March and how to plan your shopping trip'
 date: '2026-03-06'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-02/spring-produce-header.jpg'
+image: '/images/blog/2026-02/2026-03/march-market.jpg'
 excerpt: 'March brings the first hints of spring to farmers markets. Here is what to look for and how to make the most of your early season visits.'
 tags: ['spring', 'planning', 'seasonal', 'guide']
 ---
