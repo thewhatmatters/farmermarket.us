@@ -49,7 +49,7 @@ export async function getBlogPostBySlug(slug: string): Promise<BlogPost | null> 
 	return posts.find((post) => post.slug === slug) || null;
 }
 
-export function paginatePosts(posts: BlogPost[], page: number, postsPerPage: number = 6) {
+export function paginatePosts(posts: BlogPost[], page: number, postsPerPage: number = 7) {
 	const totalPages = Math.ceil(posts.length / postsPerPage);
 	const startIndex = (page - 1) * postsPerPage;
 	const endIndex = startIndex + postsPerPage;
