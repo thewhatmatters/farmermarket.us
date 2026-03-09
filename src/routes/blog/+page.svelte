@@ -14,8 +14,8 @@
 	// Get URL parameters for pagination only
 	$: currentPage = browser ? parseInt($page.url.searchParams.get('page') || '1') : 1;
 
-	// Paginate all posts
-	$: pagination = paginatePosts(data.allPosts, currentPage, 6);
+	// Paginate all posts - first page has featured post so show 6 grid, subsequent pages show 6
+	$: pagination = paginatePosts(data.allPosts, currentPage, currentPage === 1 ? 7 : 6);
 
 	// Handle pagination
 	function handlePageChange(newPage: number) {
