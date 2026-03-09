@@ -8,6 +8,7 @@ import springProduceMd from '$lib/content/blog/spring-produce-march-2026.md?raw'
 import springShoppingMd from '$lib/content/blog/spring-farmers-market-shopping-guide-2026.md?raw';
 import springGreensMd from '$lib/content/blog/spring-greens-creative-uses-2026.md?raw';
 import marchPlanningMd from '$lib/content/blog/planning-march-farmers-market-visit.md?raw';
+import rhubarbTreasureMd from '$lib/content/blog/rhubarb-spring-treasure-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
@@ -17,7 +18,8 @@ const blogPostsData = [
 	{ slug: 'spring-produce-march-2026', content: springProduceMd },
 	{ slug: 'spring-farmers-market-shopping-guide-2026', content: springShoppingMd },
 	{ slug: 'spring-greens-creative-uses-2026', content: springGreensMd },
-	{ slug: 'planning-march-farmers-market-visit', content: marchPlanningMd }
+	{ slug: 'planning-march-farmers-market-visit', content: marchPlanningMd },
+	{ slug: 'rhubarb-spring-treasure-2026', content: rhubarbTreasureMd }
 ];
 
 // Cache for processed posts
