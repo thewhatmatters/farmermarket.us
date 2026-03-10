@@ -2,6 +2,5 @@
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "framework": null,
-  "cleanUrls": true,
-  "ignoreBuildStep": true
+  "cleanUrls": true
 }
