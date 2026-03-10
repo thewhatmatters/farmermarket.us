@@ -3,11 +3,11 @@ title: 'Rhubarb: The Spring Treasure Your Farmers Market Is Hiding'
 description: 'Forget everything you think you know about rhubarb. This tangy spring vegetable (yes, vegetable!) is the secret weapon of home cooks and chefs alike. Here is everything you need to know to become a rhubarb convert.'
 date: '2026-03-09'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-03/march-market.jpg'
+image: '/images/blog/2026-03/rhubarb-spring.avif'
 excerpt: 'Forget everything you think you know about rhubarb. This tangy spring vegetable is the secret weapon of home cooks and chefs alike.'
 ---
 
-![Fresh rhubarb at the farmers market](/images/blog/2026-03/march-market.jpg)
+![Fresh rhubarb at the farmers market](/images/blog/2026-03/rhubarb-spring.avif)
 
 Every March, something magical happens at farmers markets across the country. Amid the returning asparagus and spring greens, there's a crop that sparks confusion, excitement, and sometimes outright fear among shoppers: rhubarb.
 
