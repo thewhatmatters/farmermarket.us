@@ -10,7 +10,7 @@ import springGreensMd from '$lib/content/blog/spring-greens-creative-uses-2026.m
 import marchPlanningMd from '$lib/content/blog/planning-march-farmers-market-visit.md?raw';
 import rhubarbTreasureMd from '$lib/content/blog/rhubarb-spring-treasure-2026.md?raw';
 import springHerbsMd from '$lib/content/blog/spring-herbs-kitchen-2026.md?raw';
-import asparagusMd from '$lib/content/blog/asparagus-spring-delights-2026.md?raw';
+import hyperlocalMd from '$lib/content/blog/hyperlocal-sourcing-spring-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
@@ -23,7 +23,7 @@ const blogPostsData = [
 	{ slug: 'planning-march-farmers-market-visit', content: marchPlanningMd },
 	{ slug: 'rhubarb-spring-treasure-2026', content: rhubarbTreasureMd },
 	{ slug: 'spring-herbs-kitchen-2026', content: springHerbsMd },
-	{ slug: 'asparagus-spring-delights-2026', content: asparagusMd }
+	{ slug: 'hyperlocal-sourcing-spring-2026', content: hyperlocalMd }
 ];
 
 // Cache for processed posts
