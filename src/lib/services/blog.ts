@@ -12,9 +12,11 @@ import rhubarbTreasureMd from '$lib/content/blog/rhubarb-spring-treasure-2026.md
 import springHerbsMd from '$lib/content/blog/spring-herbs-kitchen-2026.md?raw';
 import hyperlocalMd from '$lib/content/blog/hyperlocal-sourcing-spring-2026.md?raw';
 import foodPricesMd from '$lib/content/blog/farmers-market-food-prices-2026.md?raw';
+import outdoorSeasonMd from '$lib/content/blog/outdoor-season-opens-farmers-market-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
+	{ slug: 'outdoor-season-opens-farmers-market-2026', content: outdoorSeasonMd },
 	{ slug: 'july-4th-farmers-market-recipes', content: july4thRecipesMd },
 	{ slug: 'your-local-food-adventure-starts-here', content: yourLocalFoodAdventureMd },
 	{ slug: 'farmers-cheese-2026-trend', content: farmersCheeseMd },
