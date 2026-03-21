@@ -13,21 +13,27 @@ import springHerbsMd from '$lib/content/blog/spring-herbs-kitchen-2026.md?raw';
 import hyperlocalMd from '$lib/content/blog/hyperlocal-sourcing-spring-2026.md?raw';
 import foodPricesMd from '$lib/content/blog/farmers-market-food-prices-2026.md?raw';
 import outdoorSeasonMd from '$lib/content/blog/outdoor-season-opens-farmers-market-2026.md?raw';
+import springAwakeningMd from '$lib/content/blog/spring-awakening-first-fresh-finds.md?raw';
+import sevenTrendsMd from '$lib/content/blog/7-farmers-market-trends-spring-2026.md?raw';
+import weekMarch21Md from '$lib/content/blog/farmers-market-week-march-21-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
+	{ slug: 'farmers-market-week-march-21-2026', content: weekMarch21Md },
+	{ slug: '7-farmers-market-trends-spring-2026', content: sevenTrendsMd },
 	{ slug: 'outdoor-season-opens-farmers-market-2026', content: outdoorSeasonMd },
-	{ slug: 'july-4th-farmers-market-recipes', content: july4thRecipesMd },
-	{ slug: 'your-local-food-adventure-starts-here', content: yourLocalFoodAdventureMd },
-	{ slug: 'farmers-cheese-2026-trend', content: farmersCheeseMd },
-	{ slug: 'spring-produce-march-2026', content: springProduceMd },
-	{ slug: 'spring-farmers-market-shopping-guide-2026', content: springShoppingMd },
-	{ slug: 'spring-greens-creative-uses-2026', content: springGreensMd },
-	{ slug: 'planning-march-farmers-market-visit', content: marchPlanningMd },
-	{ slug: 'rhubarb-spring-treasure-2026', content: rhubarbTreasureMd },
-	{ slug: 'spring-herbs-kitchen-2026', content: springHerbsMd },
 	{ slug: 'hyperlocal-sourcing-spring-2026', content: hyperlocalMd },
-	{ slug: 'farmers-market-food-prices-2026', content: foodPricesMd }
+	{ slug: 'farmers-market-food-prices-2026', content: foodPricesMd },
+	{ slug: 'spring-herbs-kitchen-2026', content: springHerbsMd },
+	{ slug: 'rhubarb-spring-treasure-2026', content: rhubarbTreasureMd },
+	{ slug: 'planning-march-farmers-market-visit', content: marchPlanningMd },
+	{ slug: 'spring-greens-creative-uses-2026', content: springGreensMd },
+	{ slug: 'spring-farmers-market-shopping-guide-2026', content: springShoppingMd },
+	{ slug: 'spring-produce-march-2026', content: springProduceMd },
+	{ slug: 'spring-awakening-first-fresh-finds', content: springAwakeningMd },
+	{ slug: 'farmers-cheese-2026-trend', content: farmersCheeseMd },
+	{ slug: 'july-4th-farmers-market-recipes', content: july4thRecipesMd },
+	{ slug: 'your-local-food-adventure-starts-here', content: yourLocalFoodAdventureMd }
 ];
 
 // Cache for processed posts
