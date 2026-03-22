@@ -24,11 +24,19 @@ const entries = [
 		.map((resource) => `/${slugify(resource.address.state)}/${slugify(resource.title)}`)
 ];
 
-// Add blog post routes
+// Blog post routes — keep in sync with src/lib/services/blog.ts
 entries.push('/blog/your-local-food-adventure-starts-here');
+entries.push('/blog/july-4th-farmers-market-recipes');
 entries.push('/blog/farmers-cheese-2026-trend');
+entries.push('/blog/spring-awakening-first-fresh-finds');
 entries.push('/blog/spring-produce-march-2026');
+entries.push('/blog/spring-farmers-market-shopping-guide-2026');
+entries.push('/blog/spring-greens-creative-uses-2026');
+entries.push('/blog/planning-march-farmers-market-visit');
+entries.push('/blog/rhubarb-spring-treasure-2026');
+entries.push('/blog/spring-herbs-kitchen-2026');
+entries.push('/blog/hyperlocal-sourcing-spring-2026');
+entries.push('/blog/spring-market-season-opens-2026');
+entries.push('/blog/7-farmers-market-trends-spring-2026');
 
 module.exports = { entries };
-entries.push('/texas/texas-farmers-market-at-bell');
-entries.push('/texas/the-domain-farmers-market');

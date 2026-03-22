@@ -3,7 +3,7 @@ title: '7 Farmers Market Trends Shaping Spring 2026'
 description: 'From hyper-local sourcing to cooperative marketing, discover the trends driving the local food movement this spring season.'
 date: '2026-03-16'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-03/spring-trends-header.avif'
+image: '/images/blog/2026-03/spring-market-fruit-display.avif'
 excerpt: 'From hyper-local sourcing to cooperative marketing, discover the trends driving the local food movement this spring season.'
 ---
 

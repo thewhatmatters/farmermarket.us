@@ -1,9 +1,9 @@
 ---
 title: 'Spring Awakening: The First Fresh Finds at Your Farmers Market'
-description: 'As winter fades, farmers markets burst back to life with tender greens, crisp radishes, and early spring vegetables. Here is what to look for and how to make the most of spring'\''s first harvest.'
+description: "As winter fades, farmers markets burst back to life with tender greens, crisp radishes, and early spring vegetables. Here is what to look for and how to make the most of spring's first harvest."
 date: '2026-02-27'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-02/spring-farmers-market-produce.jpg'
+image: '/images/blog/2026-02/spring-header.avif'
 excerpt: 'Winter is finally loosening its grip, and farmers markets everywhere are waking up from their hibernation. From peppery radishes to tender asparagus, here is what to hunt for this spring.'
 ---
 
@@ -74,7 +74,7 @@ There is something undeniably hopeful about spring farmers markets. After the qu
 
 The community feels renewed too. People linger longer, chat with vendors, and reconnect with neighbors they have not seen since fall. The market becomes more than a place to buy food—it is a gathering place, a weekly ritual that grounds us in the rhythms of the season.
 
-![Farmers market community](/images/blog/2026-02/spring-market-community.jpg)
+![Farmers market community](/images/blog/2026-02/spring-greens-farm.avif)
 
 ## Simple Spring Recipes to Try
 
