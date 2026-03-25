@@ -3,11 +3,11 @@ title: 'Spring Herbs: The Secret Ingredient Your Kitchen Is Missing'
 description: 'From delicate chives to vibrant mint, discover how fresh spring herbs can transform your cooking. Learn what to look for at the farmers market and how to make the most of these aromatic treasures.'
 date: '2026-03-11'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-03/march-market.jpg'
+image: '/images/blog/2025-07/fresh-herb-compound-butter.avif'
 excerpt: 'Fresh herbs are the crown jewels of any farmers market visit this time of year. Heres how to find, choose, and use the best spring herbs to elevate every meal.'
 ---
 
-![Fresh spring herbs at the farmers market](/images/blog/2026-03/march-market.jpg)
+![Fresh spring herbs at the farmers market](/images/blog/2025-07/fresh-herb-compound-butter.avif)
 
 Spring is the season of renewal, and nowhere is that more apparent than at your local farmers market herb stands. After months of hearty winter greens and storage vegetables, the arrival of fresh herbs feels like a breath of fresh air — literally.
 

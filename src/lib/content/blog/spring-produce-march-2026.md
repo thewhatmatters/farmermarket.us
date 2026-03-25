@@ -3,7 +3,7 @@ title: 'First Signs of Spring: What to Find at Your Farmers Market in March'
 description: 'Spring is almost here! Discover the first seasonal vegetables and fruits making their way to farmers markets this March — from tender asparagus to sweet peas.'
 date: '2026-02-27'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-02/spring-header.avif'
+image: '/images/blog/2026-02/spring-awaken-1.avif'
 excerpt: 'Spring is almost here! Discover the first seasonal vegetables and fruits making their way to farmers markets this March — from tender asparagus to sweet peas.'
 ---
 

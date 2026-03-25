@@ -4,7 +4,7 @@ description: "Discover the latest trends shaping farmers markets in Spring 2026,
 date: "2026-03-17"
 slug: "hyperlocal-sourcing-spring-2026"
 tags: ["farmers-market", "spring", "hyper-local", "trends", "seasonal-produce"]
-image: "/images/blog/2026-03/farmers-market-portland.jpg"
+image: "/images/blog/2026-02/spring-greens-farm.avif"
 author: "FarmerMarket.us"
 ---
 

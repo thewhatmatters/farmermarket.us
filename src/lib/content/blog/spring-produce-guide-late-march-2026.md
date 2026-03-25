@@ -3,7 +3,7 @@ title: 'Late March Farmers Market: Spring Produce Guide'
 description: 'Discover the best seasonal produce to find at farmers markets in late March 2026 - from asparagus to strawberries'
 date: '2026-03-23'
 author: 'FarmerMarket.us Team'
-image: '/images/blog/2026-03/asparagus-spring-market.avif'
+image: '/images/blog/2026-02/spring-produce-header.avif'
 excerpt: 'Late March is when farmers markets truly come alive. Here is your complete guide to the seasonal produce you will find this week.'
 tags: ['spring', 'seasonal produce', 'guide', 'march']
 ---
