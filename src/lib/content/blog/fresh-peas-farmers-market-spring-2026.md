@@ -3,7 +3,7 @@ title: "The Spring Secret Your Farmers Market Doesn't Advertise: Fresh English P
 description: "Fresh English peas from the farmers market are nothing like what comes out of a can — here's how to find them, shell them, and cook them before the season vanishes."
 date: "2026-03-26"
 author: "Farmermarket.us"
-image: "/images/blog/2026-02/fresh-peas.avif"
+image: "/images/blog/2026-02/shopping-guide-3.avif"
 excerpt: "Fresh shelling peas are available for just a few fleeting weeks each spring — and most people have no idea what they're missing. Here's your complete guide."
 slug: "fresh-peas-farmers-market-spring-2026"
 tags: ["spring", "fresh peas", "seasonal produce", "recipes", "farmers market tips"]
