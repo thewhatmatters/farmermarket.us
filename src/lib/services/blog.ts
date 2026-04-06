@@ -17,6 +17,7 @@ import springTrendsMd from '$lib/content/blog/7-farmers-market-trends-spring-202
 import lateMarchProduceMd from '$lib/content/blog/spring-produce-guide-late-march-2026.md?raw';
 import freshPeasMd from '$lib/content/blog/fresh-peas-farmers-market-spring-2026.md?raw';
 import aprilMarketGuideMd from '$lib/content/blog/april-farmers-market-guide-2026.md?raw';
+import springArrivesEarlyMd from '$lib/content/blog/spring-arrives-early-2026-farmers-market.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
@@ -35,7 +36,8 @@ const blogPostsData = [
 	{ slug: '7-farmers-market-trends-spring-2026', content: springTrendsMd },
 	{ slug: 'spring-produce-guide-late-march-2026', content: lateMarchProduceMd },
 	{ slug: 'fresh-peas-farmers-market-spring-2026', content: freshPeasMd },
-	{ slug: 'april-farmers-market-guide-2026', content: aprilMarketGuideMd }
+	{ slug: 'april-farmers-market-guide-2026', content: aprilMarketGuideMd },
+	{ slug: 'spring-arrives-early-2026-farmers-market', content: springArrivesEarlyMd }
 ];
 
 // Cache for processed posts
