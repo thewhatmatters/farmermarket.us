@@ -42,5 +42,6 @@ entries.push('/blog/spring-produce-guide-late-march-2026');
 entries.push('/blog/fresh-peas-farmers-market-spring-2026');
 entries.push('/blog/april-farmers-market-guide-2026');
 entries.push('/blog/spring-arrives-early-2026-farmers-market');
+entries.push('/blog/april-strawberries-farmers-market-2026');
 
 module.exports = { entries };
