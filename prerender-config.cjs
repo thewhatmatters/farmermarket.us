@@ -46,5 +46,6 @@ entries.push('/blog/april-strawberries-farmers-market-2026');
 entries.push('/blog/spring-hidden-gems-farmers-market-2026');
 entries.push('/blog/earth-day-farmers-market-2026');
 entries.push('/blog/ramps-wild-spring-farmers-market-2026');
+entries.push('/blog/mothers-day-farmers-market-brunch-2026');
 
 module.exports = { entries };

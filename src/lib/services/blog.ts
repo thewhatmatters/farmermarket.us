@@ -22,6 +22,7 @@ import aprilStrawberriesMd from '$lib/content/blog/april-strawberries-farmers-ma
 import springHiddenGemsMd from '$lib/content/blog/spring-hidden-gems-farmers-market-2026.md?raw';
 import earthDayMarketMd from '$lib/content/blog/earth-day-farmers-market-2026.md?raw';
 import rampsWildSpringMd from '$lib/content/blog/ramps-wild-spring-farmers-market-2026.md?raw';
+import mothersDayBrunchMd from '$lib/content/blog/mothers-day-farmers-market-brunch-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
@@ -45,7 +46,8 @@ const blogPostsData = [
 	{ slug: 'april-strawberries-farmers-market-2026', content: aprilStrawberriesMd },
 	{ slug: 'spring-hidden-gems-farmers-market-2026', content: springHiddenGemsMd },
 	{ slug: 'earth-day-farmers-market-2026', content: earthDayMarketMd },
-	{ slug: 'ramps-wild-spring-farmers-market-2026', content: rampsWildSpringMd }
+	{ slug: 'ramps-wild-spring-farmers-market-2026', content: rampsWildSpringMd },
+	{ slug: 'mothers-day-farmers-market-brunch-2026', content: mothersDayBrunchMd }
 ];
 
 // Cache for processed posts
