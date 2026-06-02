@@ -25,6 +25,7 @@ const entries = [
 ];
 
 // Blog post routes — keep in sync with src/lib/services/blog.ts
+entries.push('/blog/garlic-scapes-farmers-market-2026');
 entries.push('/blog/your-local-food-adventure-starts-here');
 entries.push('/blog/july-4th-farmers-market-recipes');
 entries.push('/blog/farmers-cheese-2026-trend');

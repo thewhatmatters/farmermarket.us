@@ -26,9 +26,11 @@ import mothersDayBrunchMd from '$lib/content/blog/mothers-day-farmers-market-bru
 import memorialDayCookoutMd from '$lib/content/blog/memorial-day-farmers-market-cookout-2026.md?raw';
 import summerSquashGuideMd from '$lib/content/blog/summer-squash-farmers-market-guide-2026.md?raw';
 import freshCherriesMd from '$lib/content/blog/fresh-cherries-farmers-market-2026.md?raw';
+import garlicScapesMd from '$lib/content/blog/garlic-scapes-farmers-market-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
+	{ slug: 'garlic-scapes-farmers-market-2026', content: garlicScapesMd },
 	{ slug: 'july-4th-farmers-market-recipes', content: july4thRecipesMd },
 	{ slug: 'your-local-food-adventure-starts-here', content: yourLocalFoodAdventureMd },
 	{ slug: 'farmers-cheese-2026-trend', content: farmersCheeseMd },
