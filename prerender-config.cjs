@@ -53,4 +53,6 @@ entries.push('/blog/memorial-day-farmers-market-cookout-2026');
 entries.push('/blog/summer-squash-farmers-market-guide-2026');
 entries.push('/blog/fresh-cherries-farmers-market-2026');
 
+entries.push('/blog/apricot-season-farmers-market-2026');
+
 module.exports = { entries };

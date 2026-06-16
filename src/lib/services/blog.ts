@@ -28,9 +28,11 @@ import summerSquashGuideMd from '$lib/content/blog/summer-squash-farmers-market-
 import freshCherriesMd from '$lib/content/blog/fresh-cherries-farmers-market-2026.md?raw';
 import garlicScapesMd from '$lib/content/blog/garlic-scapes-farmers-market-2026.md?raw';
 import blueberrySeasonMd from '$lib/content/blog/blueberry-season-farmers-market-2026.md?raw';
+import apricotSeasonMd from '$lib/content/blog/apricot-season-farmers-market-2026.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
+	{ slug: 'apricot-season-farmers-market-2026', content: apricotSeasonMd },
 	{ slug: 'blueberry-season-farmers-market-2026', content: blueberrySeasonMd },
 	{ slug: 'garlic-scapes-farmers-market-2026', content: garlicScapesMd },
 	{ slug: 'july-4th-farmers-market-recipes', content: july4thRecipesMd },
